@@ -1,6 +1,7 @@
 # Reproducibility Package — "Integrated Transcriptomic and Computational Pharmacology Identifies MMP8 as a Shared Target in Crohn's Disease and Major Depressive Disorder"
 
 Manuscript: *J. Chem. Inf. Model.* (JCIM), manuscript ID ci-2026-03160r.
+First author:Liangping Cheng (ORCID: https://orcid.org/0000-0003-2636-5684), Email: 486312@hospital.cqmu.edu.cn
 Corresponding author: Xiaoqin Zhou (zhouxiaoqin_20@126.com).
 
 ## Contents
