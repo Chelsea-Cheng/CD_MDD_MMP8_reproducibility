@@ -1,6 +1,6 @@
 # Reproducibility Package — "Integrated Transcriptomic and Computational Pharmacology Identifies MMP8 as a Shared Target in Crohn's Disease and Major Depressive Disorder"
 
-Manuscript: *J. Chem. Inf. Model.* (JCIM), manuscript ID ci-2026-03160r.
+  Manuscript: *Journal of Translational Medicine* (JTM).
 First author:Liangping Cheng (ORCID: https://orcid.org/0000-0003-2636-5684), Email: 486312@hospital.cqmu.edu.cn
 Corresponding author: Xiaoqin Zhou (zhouxiaoqin_20@126.com).
 
@@ -84,4 +84,4 @@ Protocol: MMP8 receptor PDB 1JAP (1.82 A); box 22 A centred on catalytic Zn2+ (x
 - Scripts `01_geo_deg_ml.R` and `02_qsar_screening.py` are consolidated, annotated versions implementing the exact thresholds and workflows described in the manuscript Methods; the intermediate machine-readable outputs are provided in `data/` (Supplementary Files S1-S2, Supplementary Tables S1-S2).
 - All docking input files, grid configurations and output logs are included in `data/`.
 - Random seeds: R `set.seed(123)`; Python `random_state=42` where applicable.
-- All code and data files listed above are bundled in JCIM_reproducibility.zip at the repository root; the folder structure inside the zip matches this README.
+- All code and data files listed above are bundled in JTM_reproducibility.zip at the repository root; the folder structure inside the zip matches this README.
